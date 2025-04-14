@@ -17,8 +17,6 @@ import os
 import urllib.request
 # Cargar el dataset
 
-
-
 # Ruta local y URL del archivo
 local_nc_file = "Land_and_Ocean_LatLong1.nc"
 dropbox_url = "https://www.dropbox.com/scl/fi/pps7v2vdtydptcad97uqf/Land_and_Ocean_LatLong1.nc?rlkey=dwqdti8wpwoztjbk3yrdqkvau&dl=1"
